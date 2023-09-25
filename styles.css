@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.main {
+    background-color: #FFF5E0;
+}
+
+h1,
+p,
+figcaption {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 25px
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    object-fit: cover;
+    max-width: 100%;
+    height: auto
+}
+
