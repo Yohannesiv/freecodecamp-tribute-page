@@ -24,3 +24,31 @@ img {
     height: auto
 }
 
+h3 {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.quote,
+.cite {
+    margin: 0 auto;
+    font-size: 20px;
+    font-style: italic;
+    max-width: 550px;
+    text-align: left;
+    line-height: 1.2;
+}
+
+.cite {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
